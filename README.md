@@ -71,11 +71,3 @@ Asian Journal of Electrical Sciences, 14(2), 2025 · Corresponding Author
 
 
 
-
----
-
-### Find me
-
-[![Twitter](https://img.shields.io/badge/X-aby--zolami-black?style=flat&logo=x)](https://twitter.com/aby-zolami)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abyzolami-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/abyzolami)
-[![Email](https://img.shields.io/badge/Email-adebowaleabisolami%40gmail.com-gray?style=flat&logo=gmail)](mailto:adebowaleabisolami@gmail.com)

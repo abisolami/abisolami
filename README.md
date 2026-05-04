@@ -7,7 +7,7 @@ I work with Python across ML, NLP, and forecasting. Only chasing problems that a
 
 ### Currently
 
-- 💼 Junior Data Scientist @ David Adeola
+- 💼 Junior Data Scientist
 - 🤝 Open to freelance & collabs
 - 📄 Published researcher
 

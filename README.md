@@ -57,9 +57,6 @@ Asian Journal of Electrical Sciences, 14(2), 2025 · Corresponding Author
 
 ---
 
-### GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abisolami&hide_border=true)
 
 ---
 

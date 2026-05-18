@@ -1,4 +1,4 @@
-# Hey, I'm Abisolami 👋
+# Hey, I'm Abisolami 
 
 A data girly teaching herself to think in data.
 I work with Python across ML, NLP, and forecasting. Only chasing problems that are interesting enough to keep me up at night.
@@ -7,9 +7,9 @@ I work with Python across ML, NLP, and forecasting. Only chasing problems that a
 
 ### Currently
 
-- 💼 Junior Data Scientist
-- 🤝 Open to freelance & collabs
-- 📄 Published researcher
+- Junior Data Scientist
+- Open to freelance & collabs
+- Published researcher
 
 ---
 
